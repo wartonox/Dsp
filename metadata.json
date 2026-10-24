@@ -1,0 +1,6 @@
+{
+  "name": "ViPER Audio DSP",
+  "description": "Powerful audiophile audio processor & equalizer inspired by ViPER4Android with 10-band EQ, ViPER Bass, ViPER Clarity, DDC headphone correction, Convolver IRS, AnalogX tube simulation, and real-time visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
